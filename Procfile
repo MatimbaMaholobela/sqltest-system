@@ -1,1 +1,1 @@
-web: gunicorn vutivi.wsgi
+web: gunicorn sqltest.wsgi
